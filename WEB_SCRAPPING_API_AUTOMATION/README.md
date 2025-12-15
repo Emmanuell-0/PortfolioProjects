@@ -84,7 +84,7 @@ This mirrors how analysts track markets continuously rather than relying on one-
 
 ---
 
-## 🚀 Why This Matters
+## 🚀 Why This Matters / What Projects Denonstrates
 This project showcases:
 - API integration
 - Data automation
