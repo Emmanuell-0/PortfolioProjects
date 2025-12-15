@@ -89,4 +89,21 @@ This project showcases:
 - API integration
 - Data automation
 - Real-time data handling
-- Analy
+- Analytical thinking
+- Clear data storytelling
+
+It reflects the type of workflow used in **financial analysis, market research, and data engineering pipelines**.
+
+---
+
+## 📌 Next Improvements
+- Schedule execution with a task scheduler (cron / Airflow)
+- Store data in a database instead of CSV
+- Build an interactive dashboard (Power BI / Tableau / Streamlit)
+- Add anomaly detection for sudden market moves
+
+---
+
+## 👤 Author
+**Emmanuel Okundaye**  
+Chartered Accountant (ACA) | Data & Analytics  
